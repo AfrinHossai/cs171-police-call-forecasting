@@ -1,0 +1,24 @@
+{
+    "split_method": "chronological holdout",
+    "target_column": "NEXT_HOUR_CALLS",
+    "total_rows": 21236,
+    "feature_count": 48,
+    "numerical_feature_count": 48,
+    "categorical_features": [],
+    "preprocessing_fit_data": "training split only",
+    "train": {
+        "rows": 14830,
+        "prediction_start": "2024-01-08 00:00:00",
+        "prediction_end": "2025-09-30 23:00:00"
+    },
+    "validation": {
+        "rows": 3624,
+        "prediction_start": "2025-10-01 00:00:00",
+        "prediction_end": "2026-02-28 23:00:00"
+    },
+    "test": {
+        "rows": 2782,
+        "prediction_start": "2026-03-01 00:00:00",
+        "prediction_end": "2026-07-08 23:00:00"
+    }
+}
