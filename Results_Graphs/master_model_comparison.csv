@@ -1,0 +1,8 @@
+Model Architecture,MAE,MSE,RMSE,R^2 Score
+Persistence Baseline,7.408,94.426,9.717,0.589
+Linear Regression,6.104,74.836,8.651,0.674
+ElasticNet (Tuned),6.111,75.122,8.667,0.673
+Decision Tree (Tuned),6.185,85.74,9.26,0.626
+Random Forest (Tuned),5.616,66.286,8.142,0.711
+MLP Neural Network,5.845,75.329,8.679,0.672
+LSTM (2h Lookback),6.511,105.829,10.287,0.539
