@@ -1,1 +1,9 @@
 # Project dependencies will be added as the project develops.
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+tensorflow
+great-tables
