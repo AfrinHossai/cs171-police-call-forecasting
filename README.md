@@ -63,7 +63,7 @@ In Google Colab, most packages are already installed. Install `great-tables` if 
 
 Download the yearly **Police Calls for Service** CSV files from the City of San José Open Data Portal:
 
-https://data.sanjoseca.gov/
+[https://data.sanjoseca.gov/](https://data.sanjoseca.gov/dataset/police-calls-for-service)
 
 Rename the files exactly as follows:
 
