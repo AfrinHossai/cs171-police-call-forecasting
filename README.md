@@ -268,6 +268,7 @@ models/RandomForest/random_forest.joblib
 ```
 
 Do not use the test set to tune these models.
+Notebook runtime: Approximately 5-6 minutes. Restart kernel if notebook is frozen. 
 
 ### Notebook 05 — Neural Networks
 
