@@ -1,4 +1,4 @@
-# Predicting Next-Hour San José Police Call Volume
+## Predicting Next-Hour San José Police Call Volume
 
 This CS 171 machine-learning project predicts the number of San José police calls expected during the next hour. The workflow converts incident-level police-call records into hourly observations, creates leakage-safe time-series features, trains several regression models, and compares their performance on a held-out chronological test period.
 
