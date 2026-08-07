@@ -1,5 +1,3 @@
-# cs171-police-call-forecasting
-CS 171 machine learning project for forecasting police call outcomes.
 # Predicting Next-Hour San José Police Call Volume
 
 This CS 171 machine-learning project predicts the number of San José police calls expected during the next hour. The workflow converts incident-level police-call records into hourly observations, creates leakage-safe time-series features, trains several regression models, and compares their performance on a held-out chronological test period.
@@ -59,16 +57,9 @@ In Google Colab, most packages are already installed. Install `great-tables` if 
 
 ```python
 !pip install -q great-tables
-
 ```
 
-
-
-
-
-
-
-# 1. Download and Name the Raw Data
+## 1. Download and Name the Raw Data
 
 Download the yearly **Police Calls for Service** CSV files from the City of San José Open Data Portal:
 
